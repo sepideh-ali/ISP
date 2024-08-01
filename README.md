@@ -8,4 +8,6 @@ File
 * log.csv: lammps output file
 * train.csv: data ready for ML
 * ISP_ML-MD_SepidehAlimohammadi.py: main file
+* ISP_SA.ipynb: Jupyter notebook
 * ISP report.pdf
+* ISP Presentation sldies
